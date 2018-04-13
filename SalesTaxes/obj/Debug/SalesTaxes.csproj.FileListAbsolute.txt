@@ -1,0 +1,8 @@
+c:\users\clydegao\documents\visual studio 2015\Projects\SalesTaxes\SalesTaxes\bin\Debug\SalesTaxes.exe.config
+c:\users\clydegao\documents\visual studio 2015\Projects\SalesTaxes\SalesTaxes\bin\Debug\SalesTaxes.exe
+c:\users\clydegao\documents\visual studio 2015\Projects\SalesTaxes\SalesTaxes\bin\Debug\SalesTaxes.pdb
+c:\users\clydegao\documents\visual studio 2015\Projects\SalesTaxes\SalesTaxes\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\clydegao\documents\visual studio 2015\Projects\SalesTaxes\SalesTaxes\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\users\clydegao\documents\visual studio 2015\Projects\SalesTaxes\SalesTaxes\obj\Debug\SalesTaxes.csprojResolveAssemblyReference.cache
+c:\users\clydegao\documents\visual studio 2015\Projects\SalesTaxes\SalesTaxes\obj\Debug\SalesTaxes.exe
+c:\users\clydegao\documents\visual studio 2015\Projects\SalesTaxes\SalesTaxes\obj\Debug\SalesTaxes.pdb
